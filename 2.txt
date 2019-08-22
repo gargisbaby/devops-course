@@ -1,1 +1,2 @@
 This is file 2
+Thisfile is also file 2
